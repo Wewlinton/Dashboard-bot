@@ -13,7 +13,7 @@
   "author": "ChotaMajor",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.10.0",
     "@extreme_hero/deeptype": "^1.0.1",
     "ascii-table": "0.0.9",
     "axios": "^0.21.0",
